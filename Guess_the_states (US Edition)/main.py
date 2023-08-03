@@ -16,6 +16,9 @@ while len(guessed_states) < 50:
                                    prompt="What are the states' names?").title()
     all_states = df.state.tolist()
     if user_answer == 'Exit':
+        missed_ones = [i for i in all_states if i not in guessed_states]
+        mos = pd.DataFrame(missed_ones)
+        mos.to_csv("States_missed.csv")
         break
     if user_answer in all_states and user_answer not in guessed_states:
         guessed_states.append(user_answer)
@@ -26,11 +29,3 @@ while len(guessed_states) < 50:
         correct_data = df[df.state == user_answer]
         t.goto(int(correct_data.x), int(correct_data.y))
         t.write(user_answer)
-
-# States_missed:
-missed_ones = []
-for i in all_states:
-    if i not in guessed_states:
-        missed_ones.append(i)
-mos = pd.DataFrame(missed_ones)
-mos.to_csv("States_missed.csv")
