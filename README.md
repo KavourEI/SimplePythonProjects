@@ -9,3 +9,4 @@ Include Several Simple Python Projects
 6. Guess The 50 US States Correctly! Give it a go. Can you find all 50 of them?
 7. Simple Miles to Km Convertor with TkInter
 8. Pomodoro Timer. Work-Break-Work-Break-Work-Long Break!
+9. Password Manager
