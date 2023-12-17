@@ -41,7 +41,7 @@ Welcome to the Pythonic Playground, where coding meets chuckles, and Pythonic ma
 
 8. **Pomodoro Pal: Work-Break-Work-Break-Work-Long Break! ⏲️🍅**
    - **Description:** Boost your productivity with the Pomodoro Timer. Work hard, take breaks, and conquer your tasks efficiently.
-   - **Code:** Plant the seeds in the Pomodoro Timer (???) directory.
+   - **Code:** Plant the seeds in the [Pomodoro Timer](https://github.com/KavourEI/SimplePythonProjects/tree/efe7a1d1279f1230a03ad765980af380c5ac960b/Pomodoro%20Timer) directory.
    - **Quick Tip:** Coding sprints for the win!
 
 9. **Guardian of Secrets: Password Manager 🔐🤐**
