@@ -49,6 +49,11 @@ Welcome to the Pythonic Playground, where coding meets chuckles, and Pythonic ma
    - **Code:** Unlock the [Password Manager](https://github.com/KavourEI/SimplePythonProjects/tree/905d43ab4b43ec4e43933210dae03574be9a1c95/PasswordManager) directory.
    - **Quick Tip:** Secure passwords, serene mind!
 
+10. **NATO Phonetic Alphabet: Alpha-Bravo-Charlie 🚁**
+    - **Description:** Learn and practice the [NATO Phonetic Alphabet](https://github.com/KavourEI/SimplePythonProjects/tree/0861ebf35562676ff458b6f872b1b1277637e915/NATO%20Phonetic%20Alphabet) with this interactive Pythonic tool. A is for Awesome, B is for Pythonic Brilliance!
+    - **Code:** Alphabetize in the NATO Phonetic Alphabet directory.
+    - **Quick Tip:** Zulu Tango Alpha: Cracking codes, one phonetic letter at a time!
+
 ## Get Coding, Get Chuckling! 🚀😂
 
 ### Quick Start
